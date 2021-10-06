@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 791603066
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: customstage
+      Dependencies: {}
